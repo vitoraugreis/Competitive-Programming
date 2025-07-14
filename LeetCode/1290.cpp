@@ -1,7 +1,7 @@
 /*
 ---------------------------------------------------------------
     Daily Question - 07/14/2025
-    1290 - Convert Binary Number in a Linked List to Integer
+    1290. Convert Binary Number in a Linked List to Integer
 ---------------------------------------------------------------
 */
 
