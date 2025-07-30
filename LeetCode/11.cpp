@@ -22,10 +22,3 @@ public:
         return ans;
     }
 };
-
-/*
-3 5 4 6 1
-
-nums(size)-1-i;
-
-*/
